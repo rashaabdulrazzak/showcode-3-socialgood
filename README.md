@@ -5,7 +5,7 @@ The idea is to increase number of women in technology by training them and makin
 I started from the guest book and built on it
 
 - The website is depoyed on [render.com](https://render.com/)
-- The website is live and you can check it [here](https://communitygood.onrender.com/)
+- The website is live and you can check it [here](https://socailgood.onrender.com/)
 
 ## Screenshot of the app
 
